@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# GameAppExample
+#
+
+projectname: GameAppExample
+vendorid: com.paulodasalla
+mainmodule: com.paulodasalla.gameappexample
